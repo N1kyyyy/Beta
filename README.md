@@ -11,3 +11,6 @@ Auto-merge a pull request without code review.
 
 ## Test case 4
 Co-author in a merge pull request.
+
+## Test case 5
+Co-author in a merge pull request.(Twice)
