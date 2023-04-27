@@ -14,3 +14,6 @@ Co-author in a merge pull request.
 
 ## Test case 5
 Co-author in a merge pull request.(Twice)
+
+## Test case 6
+Co-author in a merge pull request.(Thrice)
