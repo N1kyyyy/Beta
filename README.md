@@ -8,3 +8,6 @@ Version control.
 
 ## Test case 3
 Auto-merge a pull request without code review.
+
+## Test case 4
+Co-author in a merge pull request.
